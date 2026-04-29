@@ -1,5 +1,3 @@
-import os
-import sys  
+import sys
 
-x = 1
 print(sys.version)
